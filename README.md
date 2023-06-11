@@ -6,4 +6,5 @@ Integrantes:
 - Imane Aalouane
 - Rafael Carlos Barroso Castillo
 - Alejandro Cuevas Fernández
+
 En este proyecto conseguimos una calificación final de 7/10
